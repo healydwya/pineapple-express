@@ -1,0 +1,2 @@
+accessKey = 'AKIAI43OYSSTTH74TVJA';
+secretKey = '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';

@@ -1,7 +1,7 @@
 @import "~variables.scss";
 
 .header-top {
-    background-color: $lite-purple;
+    background-color: $light-yellow;
     display: flex;
     align-items: center;
     height: 66px;
@@ -17,15 +17,18 @@
 .logo-container img {
     width: 50px;
     height: 50px;
+    margin-left: 40px;
 }
 
 .title {
-    color: #fff;
+    color: $pink;
     font-size: 24px;
+    margin-left: 40px;
 }
 
 .header-bottom {
-    background-color: $purple;    
+    background-color: $pink;   
+    padding-top: 20px; 
 }
 
 .user-input-container {
